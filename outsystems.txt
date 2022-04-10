@@ -1,0 +1,93 @@
+Outsystems : 
+
+
+we can use service studio to build applications.
+
+applications can be build by using sevral tools 
+
+
+
+we got various things for forntend and backend 
+
+
+
+in service studio we have screens 
+
+screens are face of our applications 
+
+
+screens can have widgets example a input widget
+
+
+after building the whole application . we can use it via publishing it 
+
+
+In service studio we have a module and choose if we want to have a reactive web app or mobile app
+
+
+
+in reactive web app . we screens in which we have various widgets . we have different parameters in it
+
+
+input, output , local parameters are avaiable . we have actions we can use in screens 
+
+
+client, screen, server are various actions . we also have database entites and we can make aggregates from it 
+
+aggregates  are ways to transform data like sorting and filtering. it also gives us option to get data from multiple sources 
+
+
+actions have flows in it . we can add if , else or write or own javascript 
+
+we can display data in widgets like list and table
+
+
+we have 1-1 , 1-many, many-1 relationships in database entites
+
+we can build forms with it and have different widgets inside it . they have inbuilt validation . we have to toogle yes and no in the field
+
+we can use label to input and link input with label via inputwidget field
+
+we can create primary and foreign keys for database entites
+
+we can have role based security , we can control authorization on screen and logic also user
+
+we can debug our outsystems applications via reactive web debugging 
+
+In aggregates we can get data from various sources and we create attributes 
+
+we can have block events , screen events also we can fetch data from aggregates on demand or when application start . 
+
+we have client variable and site properties 
+
+
+we can add pagination in screen also we can sort the data displayed on screen 
+
+we can run sql queries like create, update, delete also we have joins in form of with, without
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
